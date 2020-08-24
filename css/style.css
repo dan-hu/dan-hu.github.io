@@ -1,4 +1,14 @@
 @charset "UTF-8";
+@media screen and (max-width: 1024px) {
+  html {
+    font-size: 20px !important; } }
+
+@media screen and (max-width: 768px) {
+  .is-size-4-mobile {
+    font-size: 2rem !important; }
+  .is-size-7-mobile {
+    font-size: 0.9rem !important; } }
+
 body, button, input, select, textarea {
   font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
 
