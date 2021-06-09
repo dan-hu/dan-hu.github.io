@@ -208,6 +208,11 @@ a.tag.article-tag {
 .article .gist .file {
   all: initial; }
 
+.image-caption {
+  display: block;
+  font-size: small;
+  color: gray; }
+
 .sharebox {
   margin-top: 3rem; }
 
